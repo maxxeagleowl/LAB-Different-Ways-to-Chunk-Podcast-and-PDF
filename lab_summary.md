@@ -1,8 +1,10 @@
 # Generated Not Tested
 
-Due expensive Model setting in Codey I exceded my API limit. Rewerting the Code to anthopic not possible. I need Whsiper SST vi aOpenAI. 
+Due expensive Model setting in Codex I exceded my API limit. Rewerting the Code to anthopic not possible. I need Whsiper SST vi aOpenAI. 
 
-'RateLimitError: Error code: 429 I wasn´t able to proceed an test 'chunking-strategies.ipynp''
+'RateLimitError: Error code: 429 I wasn´t able to proceed an test 'chunking-strategies.ipynp'
+
+Podcast has been outcommented.
 
 
 # Lab Summary – Different Ways to Chunk Podcast and PDF

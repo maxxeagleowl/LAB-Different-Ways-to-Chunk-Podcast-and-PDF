@@ -1,5 +1,7 @@
 # LAB: Different Ways to Chunk Podcast and PDF
 
+### --Disclaimer-- Podcast ist due API Limit outcommented
+
 This repository explores multiple chunking strategies for a podcast transcript and a PDF document. It includes an analysis notebook, audio transcription helper, and the necessary project structure to run the lab.
 
 ## What is included
